@@ -1,0 +1,20 @@
+{
+  "name": "cmdjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "insta-fetcher": "^1.3.35",
+    "nodemon": "^3.1.4",
+    "serve-favicon": "^2.5.0"
+  }
+}
