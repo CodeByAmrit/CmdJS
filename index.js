@@ -1,6 +1,6 @@
 const express = require('express')
 const { exec } = require('child_process')
-var favicon = require('serve-favicon') 
+var favicon = require('serve-favicon')
 
 const path = require('path')
 
